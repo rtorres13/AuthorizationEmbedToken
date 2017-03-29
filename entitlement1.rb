@@ -9,9 +9,9 @@ require 'json'
 require 'pp'
 
 USER_HOST = "http://sas.ooyala.com"
-API_KEY = "l4cGYxOngWCpNkwu6BKkna3XCPa6.FkFdk"
-SECRET = "gps8XQlMt2Qu5sQ0v7Km0b9sXWLnBB7zGbXiga3o"
-PCODE = "l4cGYxOngWCpNkwu6BKkna3XCPa6"
+API_KEY = "xxkdkd"
+SECRET = "xxkdkd"
+PCODE = "xxkdkd"
 # expires 1 year from now
 t = Time.now
 EXPIRES = Time.local(t.year + 1, t.mon, t.day, t.hour).to_i
