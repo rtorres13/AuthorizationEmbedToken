@@ -70,10 +70,10 @@ ARGV.options do |opts|
     opts.parse!
 end
 
-api_key = options[:api_key] || "N2MWwxOtxFGZJagREjSFmXxPG6W0.XjvJ4"
-embed_code = options[:embed_code] || "1mZXJ3azoeD9fJwOqWWvwMME9jpir3zC"
-pcode = options[:pcode] || "N2MWwxOtxFGZJagREjSFmXxPG6W0"
-api_secret = options[:secret] || "96jCt7CDoU6MXjDDSCkEKT9tfaDIDnwDwW579p5H"
+api_key = options[:api_key] || "xxkdkd"
+embed_code = options[:embed_code] || "xxkdkd"
+pcode = options[:pcode] || "xxkdkd"
+api_secret = options[:secret] || "xxkdkd"
 expires = options[:expires] || "1340637529" # in seconds
 signature_hashing_method = options[:signature_hashing_method] || "SHA256"
 return_json = options[:return_json]
