@@ -9,9 +9,9 @@ require 'pp'
 
 PLAYER_HOST = "http://player.ooyala.com"
 SAS_HOST = "http://sas.ooyala.com"
-API_KEY = "p5bGExOjp6PZ-dEUw_GRJqh2Qdaq.67F1M"
-SECRET = "sw5sl26v5ar4KL_xDFmPfWGrHxxERoBh5KnV82td"
-PCODE = "p5bGExOjp6PZ-dEUw_GRJqh2Qdaq"
+API_KEY = "xxkdkd"
+SECRET = "xxkdkd"
+PCODE = "xxkdkd"
 ACCOUNT_ID = "40a52ba5-1e32-4a34-954f-83cc4604e591"
 EMBED_CODE = "VkNXJveTpLgwTVBKPpLfbaXnBt93c_Mw"
 # EMBED_CODE ="VkNXJveTpLgwTVBKPpLfbaXnBt93c_Mw"
